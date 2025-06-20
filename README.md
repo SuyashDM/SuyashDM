@@ -3,7 +3,7 @@
 <h2> Hello 🙋‍♂️, I'm <a href='https://github.com/SuyashDM'>Suyash</a></h2>
 
 <p align='justify'>
-I am Software Development Engineer-1 at ELASTIK TEAMS. Despite my familiarity with a variety of computer languages, Web development is where I feel most at ease.
+I am Software Development Engineer-1 at ELASTIK TEAMS. Despite my familiarity with a variety of computer languages, Web development is where I feel most at ease. I also like Python!
 Feel free to browse my repos, I hope you will find something really interesting! :octocat:
 <br></br>
 <img align="right" src="https://img.shields.io/badge/MADE%20WITH%20%E2%9D%A4%20IN-INDIA-orange?style=for-the-badge" href="!#">
